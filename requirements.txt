@@ -1,0 +1,43 @@
+sudo apt update -y; apt upgrade -y; curl -sL https://deb.nodesource.com/setup_14.x | sudo bash - 
+sudo apt-get update -y && sudo apt-get install yarn -y
+sudo apt install nodejs npm -y
+sudo apt install chromium-browser -y 
+sudo apt -y install gcc g++ make
+sudo apt -y install htop vnstat
+sudo apt-get install -y unzip;sudo apt -y install screen
+sudo apt -y install unrar
+sudo apt-get install -y libgbm-dev
+sudo apt install -y gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget
+
+npm i await-timeout
+npm i axios
+npm i chalk
+npm i cheerio
+npm i cli-color
+npm i console-log-level
+npm i crypto
+npm i events
+npm i got
+npm i hpagent
+npm i http
+npm i http2
+npm i https
+npm i minimist
+npm i request
+npm i url
+npm i request-curl
+npm i user-agents
+npm i uuid
+npm i tmp-promise
+npm i colors
+npm i fake-useragent
+npm i gradient-string
+npm i hcaptcha-solver
+npm i randomstring
+npm i playwright-extra
+npm i playwright
+npm i randomstring
+npm i sleep-promise
+npm i tls
+npm i websocket
+npm i socket
